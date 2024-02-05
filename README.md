@@ -16,12 +16,3 @@ Project Highlights:
 
 🔗 Integration: Showcasing the seamless integration between SQL and Power BI, demonstrating how these tools complement each other for comprehensive data analysis.
 
-Project Structure:
-
-📁 SQL-Queries: Contains SQL scripts used for data extraction, transformation, and analysis.
-
-📊 Power-BI-Reports: Includes Power BI files and reports showcasing the visual representation of our data insights.
-
-📄 Documentation: Detailed documentation explaining the dataset, SQL queries, Power BI report features, and insights gained from the analysis.
-
-📑 Resources: Supplementary materials, helpful links, and references used in the project.
